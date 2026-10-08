@@ -1,0 +1,1331 @@
+[
+  {
+    "id": "li-2026-multi-well",
+    "title": "Analysis on multi-well effects with the wellbore-aquifer coupled model on compressed air energy storage in aquifers with daily cycles in Dezhou, Shandong of China",
+    "authors": [
+      "Yi Li",
+      "Dongming Han",
+      "Jia Zhang",
+      "Yaning Liu",
+      "Ruihui Chen"
+    ],
+    "year": 2026,
+    "type": "journal",
+    "venue": "Applied Energy",
+    "volume": "421",
+    "pages": "128251",
+    "doi": "10.1016/j.apenergy.2026.128251",
+    "url": "https://doi.org/10.1016/j.apenergy.2026.128251",
+    "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6Lq9Y70AAAAJ&citation_for_view=6Lq9Y70AAAAJ:O3NaXMp0MMsC",
+    "topics": [
+      "energy"
+    ],
+    "sources": [
+      "https://www.sciencedirect.com/science/article/abs/pii/S0306261926009050",
+      "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6Lq9Y70AAAAJ&citation_for_view=6Lq9Y70AAAAJ:O3NaXMp0MMsC"
+    ],
+    "note": "Assigned to the journal issue dated October 15, 2026."
+  },
+  {
+    "id": "luo-2026-multi-timescale",
+    "title": "Subsurface evolution and operational suitability of compressed air energy storage in aquifers under multi-timescale cycling",
+    "authors": [
+      "Xian Luo",
+      "Yi Li",
+      "Yinjiang Liu",
+      "Jin Xu",
+      "Yunhao Li",
+      "Geng Gong",
+      "Guijin Zhang",
+      "Yaning Liu"
+    ],
+    "year": 2026,
+    "type": "journal",
+    "venue": "Applied Thermal Engineering",
+    "volume": "307",
+    "pages": "133167",
+    "url": "https://www.sciencedirect.com/science/article/pii/S1359431126034757",
+    "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6Lq9Y70AAAAJ&citation_for_view=6Lq9Y70AAAAJ:NaGl4SEjCO4C",
+    "topics": [
+      "energy"
+    ],
+    "sources": [
+      "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6Lq9Y70AAAAJ&citation_for_view=6Lq9Y70AAAAJ:NaGl4SEjCO4C",
+      "https://www.sciencedirect.com/science/article/pii/S1359431126034757"
+    ]
+  },
+  {
+    "id": "kitterman-2026-rarefied-gas",
+    "title": "Application of multifidelity proper orthogonal decomposition-based surrogate models to rarefied gas dynamics",
+    "authors": [
+      "Andrew Kitterman",
+      "Nijat Rustamov",
+      "Yaning Liu",
+      "Saman A. Aryana"
+    ],
+    "year": 2026,
+    "type": "journal",
+    "venue": "Physics of Fluids",
+    "volume": "38",
+    "issue": "6",
+    "pages": "062021",
+    "doi": "10.1063/5.0333761",
+    "url": "https://doi.org/10.1063/5.0333761",
+    "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6Lq9Y70AAAAJ&citation_for_view=6Lq9Y70AAAAJ:ns9cj8rnVeAC",
+    "topics": [
+      "surrogates",
+      "energy"
+    ],
+    "sources": [
+      "https://pubs.aip.org/aip/pof/article/38/6/062021/3396392",
+      "https://doi.org/10.1063/5.0333761",
+      "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6Lq9Y70AAAAJ&citation_for_view=6Lq9Y70AAAAJ:ns9cj8rnVeAC"
+    ]
+  },
+  {
+    "id": "schmidt-2026-hierarchical-dirichlet",
+    "title": "Hierarchical Dirichlet processes for moment-independent global sensitivity analysis",
+    "authors": [
+      "Michael T. Schmidt",
+      "Yaning Liu"
+    ],
+    "year": 2026,
+    "type": "journal",
+    "venue": "Reliability Engineering & System Safety",
+    "volume": "272",
+    "issue": "Part 3",
+    "pages": "112656",
+    "doi": "10.1016/j.ress.2026.112656",
+    "url": "https://doi.org/10.1016/j.ress.2026.112656",
+    "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6Lq9Y70AAAAJ&citation_for_view=6Lq9Y70AAAAJ:GnPB-g6toBAC",
+    "topics": [
+      "uncertainty"
+    ],
+    "sources": [
+      "https://www.sciencedirect.com/science/article/pii/S0951832026004680",
+      "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6Lq9Y70AAAAJ&citation_for_view=6Lq9Y70AAAAJ:GnPB-g6toBAC"
+    ]
+  },
+  {
+    "id": "liu-2026-dynamic-reservoir",
+    "title": "Operational performance of compressed CO2 energy storage in aquifers under dynamic reservoir pressure through coupled surface-wellbore-reservoir modeling",
+    "authors": [
+      "Yinjiang Liu",
+      "Yi Li",
+      "Xian Luo",
+      "Yi Li",
+      "Yaning Liu"
+    ],
+    "year": 2026,
+    "type": "journal",
+    "venue": "Energy",
+    "volume": "347",
+    "pages": "140424",
+    "doi": "10.1016/j.energy.2026.140424",
+    "url": "https://doi.org/10.1016/j.energy.2026.140424",
+    "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6Lq9Y70AAAAJ&citation_for_view=6Lq9Y70AAAAJ:BqipwSGYUEgC",
+    "topics": [
+      "energy"
+    ],
+    "sources": [
+      "https://www.sciencedirect.com/science/article/pii/S036054422600527X",
+      "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6Lq9Y70AAAAJ&citation_for_view=6Lq9Y70AAAAJ:BqipwSGYUEgC"
+    ]
+  },
+  {
+    "id": "li-2025-inter-seasonal-thm",
+    "title": "Coupled thermo-hydro-mechanical analysis of inter-seasonal compressed air energy storage in aquifers",
+    "authors": [
+      "Yi Li",
+      "Luping Cai",
+      "Xian Luo",
+      "Yi Li",
+      "Dong Tang",
+      "Guijin Zhang",
+      "Yaning Liu"
+    ],
+    "year": 2025,
+    "type": "journal",
+    "venue": "Journal of Energy Storage",
+    "volume": "123",
+    "pages": "116753",
+    "doi": "10.1016/j.est.2025.116753",
+    "url": "https://doi.org/10.1016/j.est.2025.116753",
+    "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6Lq9Y70AAAAJ&citation_for_view=6Lq9Y70AAAAJ:hMod-77fHWUC",
+    "topics": [
+      "energy"
+    ],
+    "sources": [
+      "https://www.sciencedirect.com/science/article/abs/pii/S2352152X25014665",
+      "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6Lq9Y70AAAAJ&citation_for_view=6Lq9Y70AAAAJ:hMod-77fHWUC"
+    ]
+  },
+  {
+    "id": "li-2025-co2-thm",
+    "title": "Underground performance assessment of compressed CO2 energy storage in aquifers by thermal-hydro-mechanical coupling method",
+    "authors": [
+      "Yi Li",
+      "Yinjiang Liu",
+      "Hao Yu",
+      "Xian Luo",
+      "Yi Li",
+      "Dong Tang",
+      "Guijin Zhang",
+      "Yaning Liu"
+    ],
+    "year": 2025,
+    "type": "journal",
+    "venue": "Energy",
+    "volume": "324",
+    "pages": "135945",
+    "doi": "10.1016/j.energy.2025.135945",
+    "url": "https://doi.org/10.1016/j.energy.2025.135945",
+    "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6Lq9Y70AAAAJ&citation_for_view=6Lq9Y70AAAAJ:blknAaTinKkC",
+    "topics": [
+      "energy"
+    ],
+    "sources": [
+      "https://www.sciencedirect.com/science/article/pii/S0360544225015877",
+      "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6Lq9Y70AAAAJ&citation_for_view=6Lq9Y70AAAAJ:blknAaTinKkC"
+    ]
+  },
+  {
+    "id": "li-2025-flat-aquifer",
+    "title": "Modeling underground performance of compressed air energy storage in a practical flat aquifer: Insights on the permeability effects",
+    "authors": [
+      "Yi Li",
+      "Ping Xue",
+      "Yi Li",
+      "Yaning Liu",
+      "Jingrui Wang",
+      "Wenjie Yin"
+    ],
+    "year": 2025,
+    "type": "journal",
+    "venue": "Energy",
+    "volume": "322",
+    "pages": "135592",
+    "doi": "10.1016/j.energy.2025.135592",
+    "url": "https://doi.org/10.1016/j.energy.2025.135592",
+    "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6Lq9Y70AAAAJ&citation_for_view=6Lq9Y70AAAAJ:JV2RwH3_ST0C",
+    "topics": [
+      "energy"
+    ],
+    "sources": [
+      "https://www.sciencedirect.com/science/article/pii/S0360544225012344",
+      "https://www.sciencedirect.com/science/article/abs/pii/S0360544225012344",
+      "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6Lq9Y70AAAAJ&citation_for_view=6Lq9Y70AAAAJ:JV2RwH3_ST0C"
+    ]
+  },
+  {
+    "id": "li-2025-heterogeneous-aquifers",
+    "title": "Coupled wellbore-aquifer numerical analysis of underground performance of compressed air energy storage in heterogeneous aquifers",
+    "authors": [
+      "Yi Li",
+      "Chaobin Guo",
+      "Jingrui Wang",
+      "Ruihui Chen",
+      "Yaning Liu"
+    ],
+    "year": 2025,
+    "type": "journal",
+    "venue": "Journal of Energy Storage",
+    "volume": "114",
+    "issue": "Part A",
+    "pages": "115794",
+    "doi": "10.1016/j.est.2025.115794",
+    "url": "https://doi.org/10.1016/j.est.2025.115794",
+    "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6Lq9Y70AAAAJ&citation_for_view=6Lq9Y70AAAAJ:YFjsv_pBGBYC",
+    "topics": [
+      "energy"
+    ],
+    "sources": [
+      "https://www.sciencedirect.com/science/article/pii/S2352152X25005079",
+      "https://www.sciencedirect.com/science/article/abs/pii/S2352152X25005079",
+      "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6Lq9Y70AAAAJ&citation_for_view=6Lq9Y70AAAAJ:YFjsv_pBGBYC"
+    ]
+  },
+  {
+    "id": "li-2025-nonlinear-wellbore",
+    "title": "Coupled nonlinear wellbore multiphase flow and thermo-hydro-mechanical analysis of compressed air energy storage in aquifers",
+    "authors": [
+      "Yi Li",
+      "Qian Zhou",
+      "Hao Yu",
+      "Yi Li",
+      "Yinjiang Liu",
+      "Leqing Huang",
+      "Dong Tang",
+      "Guijin Zhang",
+      "Yaning Liu"
+    ],
+    "year": 2025,
+    "type": "journal",
+    "venue": "Applied Energy",
+    "volume": "377",
+    "issue": "Part A",
+    "pages": "124441",
+    "doi": "10.1016/j.apenergy.2024.124441",
+    "url": "https://doi.org/10.1016/j.apenergy.2024.124441",
+    "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6Lq9Y70AAAAJ&citation_for_view=6Lq9Y70AAAAJ:maZDTaKrznsC",
+    "topics": [
+      "energy"
+    ],
+    "sources": [
+      "https://www.sciencedirect.com/science/article/pii/S0306261924018245",
+      "https://www.sciencedirect.com/science/article/abs/pii/S0306261924018245",
+      "https://ideas.repec.org/a/eee/appene/v377y2025ipas0306261924018245.html",
+      "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6Lq9Y70AAAAJ&citation_for_view=6Lq9Y70AAAAJ:maZDTaKrznsC"
+    ]
+  },
+  {
+    "id": "li-2024-formation-inclination",
+    "title": "The effects of formation inclination on the operational performance of compressed carbon dioxide energy storage in aquifers",
+    "authors": [
+      "Yi Li",
+      "Yinjiang Liu",
+      "Jie Cui",
+      "Hao Yu",
+      "Yi Li",
+      "Dong Tang",
+      "Guijin Zhang",
+      "Yaning Liu"
+    ],
+    "year": 2024,
+    "type": "journal",
+    "venue": "Renewable Energy",
+    "volume": "237",
+    "issue": "Part A",
+    "pages": "121536",
+    "doi": "10.1016/j.renene.2024.121536",
+    "url": "https://doi.org/10.1016/j.renene.2024.121536",
+    "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6Lq9Y70AAAAJ&citation_for_view=6Lq9Y70AAAAJ:M3NEmzRMIkIC",
+    "topics": [
+      "energy"
+    ],
+    "sources": [
+      "https://www.sciencedirect.com/science/article/pii/S0960148124016045",
+      "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6Lq9Y70AAAAJ&citation_for_view=6Lq9Y70AAAAJ:M3NEmzRMIkIC"
+    ]
+  },
+  {
+    "id": "li-2024-geothermal-gradients",
+    "title": "The impacts of geothermal gradients on compressed carbon dioxide energy storage in aquifers",
+    "authors": [
+      "Yi Li",
+      "Jie Cui",
+      "Hao Yu",
+      "Yi Li",
+      "Dong Tang",
+      "Guijin Zhang",
+      "Yaning Liu"
+    ],
+    "year": 2024,
+    "type": "journal",
+    "venue": "Renewable Energy",
+    "volume": "231",
+    "pages": "120954",
+    "doi": "10.1016/j.renene.2024.120954",
+    "url": "https://doi.org/10.1016/j.renene.2024.120954",
+    "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6Lq9Y70AAAAJ&citation_for_view=6Lq9Y70AAAAJ:k_IJM867U9cC",
+    "topics": [
+      "energy"
+    ],
+    "sources": [
+      "https://www.sciencedirect.com/science/article/pii/S096014812401022X",
+      "https://www.sciencedirect.com/science/article/abs/pii/S096014812401022X",
+      "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6Lq9Y70AAAAJ&citation_for_view=6Lq9Y70AAAAJ:k_IJM867U9cC"
+    ]
+  },
+  {
+    "id": "li-2024-field-testing",
+    "title": "The underground performance analysis of compressed air energy storage in aquifers through field testing",
+    "authors": [
+      "Yi Li",
+      "Hao Wang",
+      "Jinsheng Wang",
+      "Litang Hu",
+      "Xiaohua Wu",
+      "Yabin Yang",
+      "Peng Gai",
+      "Yaning Liu",
+      "Yi Li"
+    ],
+    "year": 2024,
+    "type": "journal",
+    "venue": "Applied Energy",
+    "volume": "366",
+    "pages": "123329",
+    "doi": "10.1016/j.apenergy.2024.123329",
+    "url": "https://doi.org/10.1016/j.apenergy.2024.123329",
+    "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6Lq9Y70AAAAJ&citation_for_view=6Lq9Y70AAAAJ:TFP_iSt0sucC",
+    "topics": [
+      "energy"
+    ],
+    "sources": [
+      "https://www.sciencedirect.com/science/article/abs/pii/S0306261924007128",
+      "https://www.ecohydr.com/en/publications/",
+      "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6Lq9Y70AAAAJ&citation_for_view=6Lq9Y70AAAAJ:TFP_iSt0sucC"
+    ]
+  },
+  {
+    "id": "mcconnell-2024-sleep-biomarkers",
+    "title": "On Monitoring Brain Health from the Depths of Sleep: Feature Engineering and Machine Learning Insights for Digital Biomarker Development",
+    "authors": [
+      "Brice V. McConnell",
+      "Yaning Liu",
+      "Ashis K. Biswas",
+      "Brianne M. Bettcher",
+      "Lindsey M. Medenblik",
+      "Josiane L. Broussard",
+      "Brendan P. Lucey",
+      "Alberto R. Ramos",
+      "Vitaly O. Kheyfets"
+    ],
+    "year": 2024,
+    "type": "preprint",
+    "venue": "bioRxiv",
+    "pages": "2024.02.27.581950",
+    "doi": "10.1101/2024.02.27.581950",
+    "url": "https://doi.org/10.1101/2024.02.27.581950",
+    "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6Lq9Y70AAAAJ&citation_for_view=6Lq9Y70AAAAJ:isC4tDSrTZIC",
+    "topics": [
+      "surrogates",
+      "applications"
+    ],
+    "sources": [
+      "https://connect.biorxiv.org/archive/2024-02",
+      "https://www.kheyfetslab.com/about",
+      "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6Lq9Y70AAAAJ&citation_for_view=6Lq9Y70AAAAJ:isC4tDSrTZIC"
+    ]
+  },
+  {
+    "id": "li-2024-daily-weekly-cycles",
+    "title": "Study on the applicability of compressed carbon dioxide energy storage in aquifers under different daily and weekly cycles",
+    "authors": [
+      "Yi Li",
+      "Hao Yu",
+      "Yi Li",
+      "Dong Tang",
+      "Guijin Zhang",
+      "Yaning Liu"
+    ],
+    "year": 2024,
+    "type": "journal",
+    "venue": "Renewable Energy",
+    "volume": "222",
+    "pages": "119987",
+    "doi": "10.1016/j.renene.2024.119987",
+    "url": "https://doi.org/10.1016/j.renene.2024.119987",
+    "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6Lq9Y70AAAAJ&citation_for_view=6Lq9Y70AAAAJ:iH-uZ7U-co4C",
+    "topics": [
+      "energy"
+    ],
+    "sources": [
+      "https://www.sciencedirect.com/science/article/pii/S0960148124000521",
+      "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6Lq9Y70AAAAJ&citation_for_view=6Lq9Y70AAAAJ:iH-uZ7U-co4C"
+    ]
+  },
+  {
+    "id": "janani-2024-data-consistent-gwas",
+    "title": "A novel application of data-consistent inversion to overcome spurious inference in genome-wide association studies",
+    "authors": [
+      "Negar Janani",
+      "Kendra A. Young",
+      "Greg Kinney",
+      "Matthew Strand",
+      "John E. Hokanson",
+      "Yaning Liu",
+      "Troy Butler",
+      "Erin Austin"
+    ],
+    "year": 2024,
+    "type": "journal",
+    "venue": "Genetic Epidemiology",
+    "volume": "48",
+    "issue": "6",
+    "pages": "270–288",
+    "doi": "10.1002/gepi.22563",
+    "url": "https://doi.org/10.1002/gepi.22563",
+    "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6Lq9Y70AAAAJ&citation_for_view=6Lq9Y70AAAAJ:bEWYMUwI8FkC",
+    "topics": [
+      "uncertainty",
+      "applications"
+    ],
+    "sources": [
+      "https://pubmed.ncbi.nlm.nih.gov/38644517/",
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC11938999/",
+      "https://par.nsf.gov/servlets/purl/10534198",
+      "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6Lq9Y70AAAAJ&citation_for_view=6Lq9Y70AAAAJ:bEWYMUwI8FkC"
+    ]
+  },
+  {
+    "id": "kitterman-2026-pod-gradient-boosting",
+    "title": "A Proper Orthogonal Decomposition–Based Gradient Boosting Machine for Efficient Surrogate Modeling",
+    "authors": [
+      "Andrew Kitterman",
+      "Yaning Liu",
+      "Michal Kopera"
+    ],
+    "year": 2026,
+    "type": "preprint",
+    "venue": "SSRN",
+    "pages": "6758467",
+    "doi": "10.2139/ssrn.6758467",
+    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6758467",
+    "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6Lq9Y70AAAAJ&citation_for_view=6Lq9Y70AAAAJ:RGFaLdJalmkC",
+    "topics": [
+      "surrogates"
+    ],
+    "sources": [
+      "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6758467",
+      "https://ssrn.com/abstract=6758467",
+      "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6Lq9Y70AAAAJ&citation_for_view=6Lq9Y70AAAAJ:RGFaLdJalmkC"
+    ],
+    "note": "Preprint posted May 13, 2026."
+  },
+  {
+    "id": "legacy-1",
+    "title": "First Semester in Numerical Analysis with Python",
+    "authors": [
+      "Y. Liu",
+      "Giray Ökten"
+    ],
+    "year": 2020,
+    "type": "book",
+    "venue": "Open Textbook Library",
+    "url": "https://open.umn.edu/opentextbooks/textbooks/925",
+    "topics": [
+      "applications"
+    ],
+    "sources": [
+      "Original website bibliography",
+      "https://scholar.google.com/citations?user=6Lq9Y70AAAAJ"
+    ],
+    "selfAuthorIndex": 0
+  },
+  {
+    "id": "legacy-2",
+    "title": "Probability and Simulation: A Python Companion",
+    "authors": [
+      "Y. Liu",
+      "Giray Ökten"
+    ],
+    "year": 2020,
+    "type": "resource",
+    "venue": "Python companion to Probability and Simulation (Springer)",
+    "url": "https://extras.springer.com/?query=978-3-030-56069-0",
+    "topics": [
+      "applications"
+    ],
+    "sources": [
+      "Original website bibliography",
+      "https://scholar.google.com/citations?user=6Lq9Y70AAAAJ"
+    ],
+    "selfAuthorIndex": 0,
+    "note": "Python supplementary material; the main textbook is authored by Giray Ökten."
+  },
+  {
+    "id": "legacy-3",
+    "title": "Potential influences of leakage through a high permeability path on shallow aquifers in compressed air energy storage in aquifers",
+    "authors": [
+      "Y. Li",
+      "Y. Liu",
+      "Y. Li",
+      "B. Hu",
+      "P. Gai"
+    ],
+    "year": 2023,
+    "type": "journal",
+    "venue": "Renewable Energy",
+    "url": "https://www.sciencedirect.com/science/article/abs/pii/S096014812300469X",
+    "topics": [
+      "energy"
+    ],
+    "sources": [
+      "Original website bibliography",
+      "https://scholar.google.com/citations?user=6Lq9Y70AAAAJ"
+    ],
+    "selfAuthorIndex": 1,
+    "volume": "209"
+  },
+  {
+    "id": "legacy-4",
+    "title": "Numerical verification on the feasibility of compressed carbon dioxide energy storage in two aquifers",
+    "authors": [
+      "Y. Li",
+      "H. Yu",
+      "Y. Xiao",
+      "Y. Li",
+      "Y. Liu",
+      "X. Luo",
+      "D. Tang",
+      "G. Zhang",
+      "Y. Liu"
+    ],
+    "year": 2023,
+    "type": "journal",
+    "venue": "Renewable Energy",
+    "url": "https://www.sciencedirect.com/science/article/abs/pii/S0960148123002999",
+    "topics": [
+      "energy"
+    ],
+    "sources": [
+      "Original website bibliography",
+      "https://scholar.google.com/citations?user=6Lq9Y70AAAAJ"
+    ],
+    "selfAuthorIndex": 8,
+    "volume": "207"
+  },
+  {
+    "id": "legacy-5",
+    "title": "Full cycle modeling of inter-seasonal compressed air energy storage in aquifers",
+    "authors": [
+      "Y. Li",
+      "H. Yu",
+      "Y. Li",
+      "X. Luo",
+      "Y. Liu",
+      "G. Zhang",
+      "D. Tang",
+      "Y. Liu"
+    ],
+    "year": 2023,
+    "type": "journal",
+    "venue": "Energy",
+    "url": "https://www.sciencedirect.com/science/article/abs/pii/S0360544222028730",
+    "topics": [
+      "energy"
+    ],
+    "sources": [
+      "Original website bibliography",
+      "https://scholar.google.com/citations?user=6Lq9Y70AAAAJ"
+    ],
+    "selfAuthorIndex": 7,
+    "volume": "263 Part D"
+  },
+  {
+    "id": "legacy-6",
+    "title": "Exploring students’ learning support use in digital game-based math learning: A mixed-methods approach using machine learning and multi-cases study",
+    "authors": [
+      "C. Dai",
+      "F. Ke",
+      "Y. Pan",
+      "Y. Liu"
+    ],
+    "year": 2023,
+    "type": "journal",
+    "venue": "Computers & Education",
+    "url": "https://www.sciencedirect.com/science/article/abs/pii/S036013152200269X",
+    "topics": [
+      "surrogates"
+    ],
+    "sources": [
+      "Original website bibliography",
+      "https://scholar.google.com/citations?user=6Lq9Y70AAAAJ"
+    ],
+    "selfAuthorIndex": 3,
+    "volume": "194"
+  },
+  {
+    "id": "legacy-7",
+    "title": "The Influence Research on Nitrogen Transport and Reaction in the Hyporheic Zone with an In-Stream Structure",
+    "authors": [
+      "R. Sun",
+      "J. Dong",
+      "Y. Li",
+      "P. Li",
+      "Y. Liu",
+      "Y. Liu",
+      "J. Feng"
+    ],
+    "year": 2022,
+    "type": "journal",
+    "venue": "International Journal of Environmental Research and Public Health",
+    "url": "https://www.mdpi.com/1660-4601/19/19/12695",
+    "topics": [
+      "applications"
+    ],
+    "sources": [
+      "Original website bibliography",
+      "https://scholar.google.com/citations?user=6Lq9Y70AAAAJ"
+    ],
+    "selfAuthorIndex": 4,
+    "volume": "19"
+  },
+  {
+    "id": "legacy-8",
+    "title": "Numerical study on the impacts of layered heterogeneity on the underground process in compressed air energy storage in aquifers",
+    "authors": [
+      "Y. Li",
+      "Y. Li",
+      "Y. Liu"
+    ],
+    "year": 2022,
+    "type": "journal",
+    "venue": "Journal of Energy Storage",
+    "url": "https://www.sciencedirect.com/science/article/abs/pii/S2352152X21015061?via%3Dihub",
+    "topics": [
+      "energy"
+    ],
+    "sources": [
+      "Original website bibliography",
+      "https://scholar.google.com/citations?user=6Lq9Y70AAAAJ"
+    ],
+    "selfAuthorIndex": 2,
+    "volume": "46"
+  },
+  {
+    "id": "legacy-9",
+    "title": "A comparison of compressed carbon dioxide energy storage and compressed air energy storage in aquifers using numerical methods",
+    "authors": [
+      "Y. Li",
+      "H. Yu",
+      "D. Tang",
+      "Y. Li",
+      "G. Zhang",
+      "Y. Liu"
+    ],
+    "year": 2022,
+    "type": "journal",
+    "venue": "Renewable Energy",
+    "url": "https://www.sciencedirect.com/science/article/abs/pii/S0960148122001781?via%3Dihub",
+    "topics": [
+      "energy"
+    ],
+    "sources": [
+      "Original website bibliography",
+      "https://scholar.google.com/citations?user=6Lq9Y70AAAAJ"
+    ],
+    "selfAuthorIndex": 5,
+    "volume": "187"
+  },
+  {
+    "id": "legacy-10",
+    "title": "Evaluation of rural water supply sustainable operation and management based on cyclic correction framework – a case study of Chongqing, China",
+    "authors": [
+      "L. Fan",
+      "Y. Li",
+      "W. Luo",
+      "W. Qiao",
+      "W. Li",
+      "F. Liu",
+      "Y. Liu"
+    ],
+    "year": 2022,
+    "type": "journal",
+    "venue": "Water Supply",
+    "url": "https://iwaponline.com/ws/article/22/2/2008/83985/Evaluation-of-rural-water-supply-sustainable",
+    "topics": [
+      "applications"
+    ],
+    "sources": [
+      "Original website bibliography",
+      "https://scholar.google.com/citations?user=6Lq9Y70AAAAJ"
+    ],
+    "selfAuthorIndex": 6,
+    "volume": "22(2)"
+  },
+  {
+    "id": "legacy-11",
+    "title": "Randomized quasi-Monte Carlo methods in global sensitivity analysis",
+    "authors": [
+      "G. Ökten",
+      "Y. Liu"
+    ],
+    "year": 2021,
+    "type": "journal",
+    "venue": "Reliability Engineering and System Safety",
+    "url": "https://www.sciencedirect.com/science/article/abs/pii/S0951832021000818?via%3Dihub",
+    "topics": [
+      "uncertainty"
+    ],
+    "sources": [
+      "Original website bibliography",
+      "https://scholar.google.com/citations?user=6Lq9Y70AAAAJ"
+    ],
+    "selfAuthorIndex": 1,
+    "volume": "210"
+  },
+  {
+    "id": "legacy-12",
+    "title": "A coupled optimization of groundwater remediation alternatives screening under health risk assessment: An application to a petroleum-contaminated site in a typical cold industrial region in Northeastern China",
+    "authors": [
+      "R. Chen",
+      "Y. Teng",
+      "H. Chen",
+      "W. Yue",
+      "X. Su",
+      "Y. Liu",
+      "Q. Zhang"
+    ],
+    "year": 2021,
+    "type": "journal",
+    "venue": "Journal of Hazardous Materials",
+    "url": "https://www.sciencedirect.com/science/article/pii/S0304389420327874",
+    "topics": [
+      "applications"
+    ],
+    "sources": [
+      "Original website bibliography",
+      "https://scholar.google.com/citations?user=6Lq9Y70AAAAJ"
+    ],
+    "selfAuthorIndex": 5,
+    "volume": "407"
+  },
+  {
+    "id": "legacy-13",
+    "title": "Numerical investigation of a novel approach to coupling compressed air energy storage in aquifers with geothermal energy",
+    "authors": [
+      "Y. Li",
+      "Y. Liu",
+      "B. Hu",
+      "Y. Li",
+      "J. Dong"
+    ],
+    "year": 2020,
+    "type": "journal",
+    "venue": "Applied Energy",
+    "url": "https://www.sciencedirect.com/science/article/abs/pii/S0306261920312666",
+    "topics": [
+      "energy"
+    ],
+    "sources": [
+      "Original website bibliography",
+      "https://scholar.google.com/citations?user=6Lq9Y70AAAAJ"
+    ],
+    "selfAuthorIndex": 1,
+    "volume": "279"
+  },
+  {
+    "id": "legacy-14",
+    "title": "Performance assessment of a newly developed and highly stable sandy cementitious grout for karst aquifers in China",
+    "authors": [
+      "Y. Li",
+      "G. Zhang",
+      "H. Jiang",
+      "Y. Liu",
+      "C. Kuang"
+    ],
+    "year": 2020,
+    "type": "journal",
+    "venue": "Environmental Earth Sciences",
+    "url": "https://link.springer.com/article/10.1007/s12665-020-8894-8",
+    "topics": [
+      "applications"
+    ],
+    "sources": [
+      "Original website bibliography",
+      "https://scholar.google.com/citations?user=6Lq9Y70AAAAJ"
+    ],
+    "selfAuthorIndex": 3,
+    "volume": "79"
+  },
+  {
+    "id": "legacy-15",
+    "title": "Numerical study on the hydrodynamic and thermodynamic properties of compressed carbon dioxide energy storage in aquifers",
+    "authors": [
+      "Y. Li",
+      "H. Yu",
+      "Y. Liu",
+      "G. Zhang",
+      "D. Tang",
+      "Z. Jiang"
+    ],
+    "year": 2020,
+    "type": "journal",
+    "venue": "Renewable Energy",
+    "url": "https://www.sciencedirect.com/science/article/pii/S0960148119318294",
+    "topics": [
+      "energy"
+    ],
+    "sources": [
+      "Original website bibliography",
+      "https://scholar.google.com/citations?user=6Lq9Y70AAAAJ"
+    ],
+    "selfAuthorIndex": 2,
+    "volume": "151"
+  },
+  {
+    "id": "legacy-16",
+    "title": "Compressed air energy storage in aquifers: basic principles, considerable factors, and improvement approaches",
+    "authors": [
+      "Y. Li",
+      "Y. Li",
+      "Y. Liu",
+      "X. Cao"
+    ],
+    "year": 2021,
+    "type": "journal",
+    "venue": "Reviews in Chemical Engineering",
+    "url": "https://www.degruyter.com/document/doi/10.1515/revce-2019-0015/html?lang=en",
+    "topics": [
+      "energy"
+    ],
+    "sources": [
+      "Original website bibliography",
+      "https://scholar.google.com/citations?user=6Lq9Y70AAAAJ"
+    ],
+    "selfAuthorIndex": 2,
+    "volume": "37(5)"
+  },
+  {
+    "id": "legacy-17",
+    "title": "Effects of cementitious grout components on rheological properties",
+    "authors": [
+      "J. Liu",
+      "Y. Li",
+      "G. Zhang",
+      "Y. Liu"
+    ],
+    "year": 2019,
+    "type": "journal",
+    "venue": "Construction and Building Materials",
+    "url": "https://www.sciencedirect.com/science/article/pii/S0950061819320641",
+    "topics": [
+      "applications"
+    ],
+    "sources": [
+      "Original website bibliography",
+      "https://scholar.google.com/citations?user=6Lq9Y70AAAAJ"
+    ],
+    "selfAuthorIndex": 3,
+    "volume": "227"
+  },
+  {
+    "id": "legacy-18",
+    "title": "Evaluation of van Genuchten-Mualem model on the relative permeability for unsaturated flow in aperture-based fractures",
+    "authors": [
+      "J. Sheng",
+      "T. Huang",
+      "Z. Ye",
+      "B. Hu",
+      "Y. Liu",
+      "Q. Fan"
+    ],
+    "year": 2019,
+    "type": "journal",
+    "venue": "Journal of Hydrology",
+    "url": "https://www.sciencedirect.com/science/article/pii/S0022169419305943",
+    "topics": [
+      "applications"
+    ],
+    "sources": [
+      "Original website bibliography",
+      "https://scholar.google.com/citations?user=6Lq9Y70AAAAJ"
+    ],
+    "selfAuthorIndex": 4,
+    "volume": "576"
+  },
+  {
+    "id": "legacy-19",
+    "title": "Efficient Bayesian Parameter Inversion Facilitated by Multi-Fidelity Modeling",
+    "authors": [
+      "Y. Liu"
+    ],
+    "year": 2019,
+    "type": "journal",
+    "venue": "Applied Computational Electromagnetics Society Journal",
+    "url": "https://aces-society.org/includes/downloadpaper.php?of=ACES_Journal_February_2019_Paper_44&nf=19-2-44",
+    "topics": [
+      "uncertainty"
+    ],
+    "sources": [
+      "Original website bibliography",
+      "https://scholar.google.com/citations?user=6Lq9Y70AAAAJ"
+    ],
+    "selfAuthorIndex": 0,
+    "volume": "34(2)"
+  },
+  {
+    "id": "legacy-20",
+    "title": "Thermodynamic analysis of a novel supercritical compressed carbon dioxide energy storage system through advanced exergy analysis",
+    "authors": [
+      "Q. He",
+      "H. Liu",
+      "Y. Hao",
+      "Y. Liu",
+      "W. Liu"
+    ],
+    "year": 2018,
+    "type": "journal",
+    "venue": "Renewable Energy",
+    "url": "https://www.sciencedirect.com/science/article/pii/S096014811830524X",
+    "topics": [
+      "energy"
+    ],
+    "sources": [
+      "Original website bibliography",
+      "https://scholar.google.com/citations?user=6Lq9Y70AAAAJ"
+    ],
+    "selfAuthorIndex": 3,
+    "volume": "127"
+  },
+  {
+    "id": "legacy-21",
+    "title": "The parabolic variational inequalities for variably-saturated water flow in heterogeneous fracture networks",
+    "authors": [
+      "Z. Ye",
+      "Q. Jiang",
+      "C. Yao",
+      "Y. Liu",
+      "A. Cheng",
+      "S. Huang",
+      "Y. Liu"
+    ],
+    "year": 2018,
+    "type": "journal",
+    "venue": "Geofluids",
+    "url": "https://www.hindawi.com/journals/geofluids/2018/9062569/",
+    "topics": [
+      "applications"
+    ],
+    "sources": [
+      "Original website bibliography",
+      "https://scholar.google.com/citations?user=6Lq9Y70AAAAJ"
+    ],
+    "selfAuthorIndex": 6,
+    "volume": "2018"
+  },
+  {
+    "id": "legacy-22",
+    "title": "Implicit sampling combined with reduced order modeling for the inversion of vadose zone hydrological data",
+    "authors": [
+      "Y. Liu",
+      "G.S.H. Pau",
+      "S. Finsterle"
+    ],
+    "year": 2017,
+    "type": "journal",
+    "venue": "Computers & Geosciences",
+    "url": "https://www.sciencedirect.com/science/article/pii/S0098300417303850",
+    "topics": [
+      "uncertainty",
+      "surrogates"
+    ],
+    "sources": [
+      "Original website bibliography",
+      "https://scholar.google.com/citations?user=6Lq9Y70AAAAJ"
+    ],
+    "selfAuthorIndex": 0,
+    "volume": "108"
+  },
+  {
+    "id": "legacy-23",
+    "title": "Uncertainty and robustness in weather derivative models",
+    "authors": [
+      "A. Göncü",
+      "Y. Liu",
+      "G. Ökten",
+      "M.Y. Hussaini"
+    ],
+    "year": 2016,
+    "type": "chapter",
+    "venue": "Monte Carlo and Quasi-Monte Carlo Methods 2014",
+    "url": "https://link.springer.com/chapter/10.1007/978-3-319-33507-0_17",
+    "topics": [
+      "uncertainty"
+    ],
+    "sources": [
+      "Original website bibliography",
+      "https://scholar.google.com/citations?user=6Lq9Y70AAAAJ"
+    ],
+    "selfAuthorIndex": 1,
+    "pages": "351–365"
+  },
+  {
+    "id": "legacy-24",
+    "title": "Accurate construction of high dimensional model representation with applications to uncertainty quantification",
+    "authors": [
+      "Y. Liu",
+      "M.Y. Hussaini",
+      "G. Ökten"
+    ],
+    "year": 2016,
+    "type": "journal",
+    "venue": "Reliability Engineering & System Safety",
+    "url": "https://www.sciencedirect.com/science/article/pii/S0951832016300114",
+    "topics": [
+      "uncertainty",
+      "surrogates"
+    ],
+    "sources": [
+      "Original website bibliography",
+      "https://scholar.google.com/citations?user=6Lq9Y70AAAAJ"
+    ],
+    "selfAuthorIndex": 0,
+    "volume": "152"
+  },
+  {
+    "id": "legacy-25",
+    "title": "Accurate and efficient prediction of fine-resolution hydrologic and carbon dynamics from coarse-resolution models",
+    "authors": [
+      "G.S.H. Pau",
+      "C. Shen",
+      "W. Riley",
+      "Y. Liu"
+    ],
+    "year": 2016,
+    "type": "journal",
+    "venue": "Water Resources Research",
+    "url": "http://onlinelibrary.wiley.com/doi/10.1002/2015WR017782/full",
+    "topics": [
+      "surrogates"
+    ],
+    "sources": [
+      "Original website bibliography",
+      "https://scholar.google.com/citations?user=6Lq9Y70AAAAJ"
+    ],
+    "selfAuthorIndex": 3,
+    "volume": "52"
+  },
+  {
+    "id": "legacy-26",
+    "title": "Evaluation of multiple reduced-order models to enhance confidence in global sensitivity analyses",
+    "authors": [
+      "Y. Zhang",
+      "Y. Liu",
+      "G.S.H. Pau",
+      "S. Oladyshkin",
+      "S. Finsterle"
+    ],
+    "year": 2016,
+    "type": "journal",
+    "venue": "International Journal of Greenhouse Gas Control",
+    "url": "https://www.sciencedirect.com/science/article/pii/S1750583616301086",
+    "topics": [
+      "uncertainty",
+      "surrogates"
+    ],
+    "sources": [
+      "Original website bibliography",
+      "https://scholar.google.com/citations?user=6Lq9Y70AAAAJ"
+    ],
+    "selfAuthorIndex": 1,
+    "volume": "49"
+  },
+  {
+    "id": "legacy-27",
+    "title": "A hybrid reduced-order model of fine-resolution hydrologic simulations at a polygonal tundra site",
+    "authors": [
+      "Y. Liu",
+      "G. Bisht",
+      "Z. M. Subin",
+      "W. J. Riley",
+      "G.S.H. Pau"
+    ],
+    "year": 2016,
+    "type": "journal",
+    "venue": "Vadose Zone Journal",
+    "url": "https://acsess.onlinelibrary.wiley.com/doi/10.2136/vzj2015.05.0068",
+    "topics": [
+      "surrogates"
+    ],
+    "sources": [
+      "Original website bibliography",
+      "https://scholar.google.com/citations?user=6Lq9Y70AAAAJ"
+    ],
+    "selfAuthorIndex": 0,
+    "volume": "15(2)"
+  },
+  {
+    "id": "legacy-28",
+    "title": "Global sensitivity analysis for the Rothermel model based on high dimensional model representation",
+    "authors": [
+      "Y. Liu",
+      "M.Y. Hussaini",
+      "G. Ökten"
+    ],
+    "year": 2015,
+    "type": "journal",
+    "venue": "Canadian Journal of Forest Research",
+    "url": "http://www.nrcresearchpress.com/doi/abs/10.1139/cjfr-2015-0148",
+    "topics": [
+      "uncertainty",
+      "surrogates"
+    ],
+    "sources": [
+      "Original website bibliography",
+      "https://scholar.google.com/citations?user=6Lq9Y70AAAAJ"
+    ],
+    "selfAuthorIndex": 0,
+    "volume": "45"
+  },
+  {
+    "id": "legacy-29",
+    "title": "Global sensitivity analysis used to interpret biological experimental results",
+    "authors": [
+      "A. M. Jarrett",
+      "Y. Liu",
+      "N. G. Cogan",
+      "M. Y. Hussaini"
+    ],
+    "year": 2015,
+    "type": "journal",
+    "venue": "Journal of Mathematical Biology",
+    "url": "https://link.springer.com/article/10.1007%2Fs00285-014-0818-3",
+    "topics": [
+      "uncertainty"
+    ],
+    "sources": [
+      "Original website bibliography",
+      "https://scholar.google.com/citations?user=6Lq9Y70AAAAJ"
+    ],
+    "selfAuthorIndex": 1,
+    "volume": "71",
+    "issue": "1",
+    "pages": "151–170"
+  },
+  {
+    "id": "legacy-30",
+    "title": "Parametric uncertainty quantification in the Rothermel model with randomised quasi-Monte Carlo methods",
+    "authors": [
+      "Y. Liu",
+      "E. Jiménez",
+      "M.Y. Hussaini",
+      "G. Ökten",
+      "Scott Goodrick"
+    ],
+    "year": 2015,
+    "type": "journal",
+    "venue": "International Journal of Wildland Fire",
+    "url": "http://www.publish.csiro.au/paper/WF13097.htm",
+    "topics": [
+      "uncertainty"
+    ],
+    "sources": [
+      "Original website bibliography",
+      "https://scholar.google.com/citations?user=6Lq9Y70AAAAJ"
+    ],
+    "selfAuthorIndex": 0,
+    "volume": "24",
+    "issue": "3",
+    "pages": "307–316"
+  },
+  {
+    "id": "legacy-31",
+    "title": "Variance reduction method based on sensitivity derivatives, Part 2",
+    "authors": [
+      "E. Jiménez",
+      "Y. Liu",
+      "M.Y. Hussaini"
+    ],
+    "year": 2013,
+    "type": "journal",
+    "venue": "Applied Numerical Mathematics",
+    "url": "https://www.sciencedirect.com/science/article/pii/S0168927412001778",
+    "topics": [
+      "uncertainty"
+    ],
+    "sources": [
+      "Original website bibliography",
+      "https://scholar.google.com/citations?user=6Lq9Y70AAAAJ"
+    ],
+    "selfAuthorIndex": 1,
+    "volume": "74"
+  },
+  {
+    "id": "legacy-32",
+    "title": "Optimization of a Monte Carlo Variance Reduction Method Based on Sensitivity Derivatives",
+    "authors": [
+      "Y. Liu",
+      "M.Y. Hussaini",
+      "G. Ökten"
+    ],
+    "year": 2013,
+    "type": "journal",
+    "venue": "Applied Numerical Mathematics",
+    "url": "https://www.sciencedirect.com/science/article/pii/S0168927413000871",
+    "topics": [
+      "uncertainty"
+    ],
+    "sources": [
+      "Original website bibliography",
+      "https://scholar.google.com/citations?user=6Lq9Y70AAAAJ"
+    ],
+    "selfAuthorIndex": 0,
+    "volume": "72"
+  },
+  {
+    "id": "legacy-33",
+    "title": "Efficient reduced-order models for evaluating the impact of CO2 and brine leakage on groundwater",
+    "authors": [
+      "Y. Liu",
+      "L. Zheng"
+    ],
+    "year": 2018,
+    "type": "conference",
+    "venue": "Proceedings of 2018 TOUGH Symposium",
+    "url": "https://drive.google.com/file/d/1jG9Dh0Dm5nYWm1j_JwqISkF9o6PEL1KY/view?usp=sharing",
+    "topics": [
+      "surrogates"
+    ],
+    "sources": [
+      "Original website bibliography",
+      "https://scholar.google.com/citations?user=6Lq9Y70AAAAJ"
+    ],
+    "selfAuthorIndex": 0
+  },
+  {
+    "id": "legacy-34",
+    "title": "Accurate and efficient Bayesian parameter inversion based on low-fidelity model solutions",
+    "authors": [
+      "Y. Liu"
+    ],
+    "year": 2018,
+    "type": "conference",
+    "venue": "International Applied Computational Electromagnetics Society Symposium",
+    "url": "https://ieeexplore.ieee.org/abstract/document/8364317/",
+    "topics": [
+      "uncertainty"
+    ],
+    "sources": [
+      "Original website bibliography",
+      "https://scholar.google.com/citations?user=6Lq9Y70AAAAJ"
+    ],
+    "selfAuthorIndex": 0
+  },
+  {
+    "id": "legacy-35",
+    "title": "Bayesian parameter inversion with implicit sampling for a vadose zone hydrological model",
+    "authors": [
+      "Y. Liu",
+      "G.S.H. Pau",
+      "S. Finsterle"
+    ],
+    "year": 2015,
+    "type": "conference",
+    "venue": "Proceedings of TOUGH Symposium",
+    "url": "https://tough.lbl.gov/assets/files/02/events/symposia/toughsymposium15/Proceedings_TOUGHSymposium2015.pdf",
+    "topics": [
+      "uncertainty"
+    ],
+    "sources": [
+      "Original website bibliography",
+      "https://scholar.google.com/citations?user=6Lq9Y70AAAAJ"
+    ],
+    "selfAuthorIndex": 0
+  },
+  {
+    "id": "legacy-36",
+    "title": "Global sensitivity analysis for the Rothermel model based on high dimensional model representation",
+    "authors": [
+      "Y. Liu",
+      "M.Y. Hussaini",
+      "Giray Ökten"
+    ],
+    "year": 2013,
+    "type": "conference",
+    "venue": "4th Fire Behavior and Fuels Conference Proceedings",
+    "url": "https://iawf.wpengine.com/wp-content/uploads/2018/02/4th_Fuels_Conference_Proceedings_USA-Russia_updated_5.28.2015.pdf",
+    "topics": [
+      "uncertainty",
+      "surrogates"
+    ],
+    "sources": [
+      "Original website bibliography",
+      "https://scholar.google.com/citations?user=6Lq9Y70AAAAJ"
+    ],
+    "selfAuthorIndex": 0
+  }
+]

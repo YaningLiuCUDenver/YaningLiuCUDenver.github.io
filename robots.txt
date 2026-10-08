@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://yaningliucudenver.github.io/sitemap.xml

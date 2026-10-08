@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#183d35">
+  <title>{{title}}</title>
+  <meta name="description" content="{{description}}">
+  <link rel="canonical" href="{{canonical}}">
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="{{title}}">
+  <meta property="og:description" content="{{description}}">
+  <meta property="og:url" content="{{canonical}}">
+  <meta property="og:image" content="https://yaningliucudenver.github.io/img/SelfPic.jpg">
+  <meta property="og:image:alt" content="Portrait of Yaning Liu">
+  <link rel="icon" type="image/svg+xml" href="assets/favicon.svg">
+  <link rel="stylesheet" href="assets/site.css">
+  <script src="assets/site.js" defer></script>
+  {{structured_data}}
+</head>
+<body>
+  <a class="skip-link" href="#main">Skip to content</a>
+  <header class="site-header">
+    <div class="container header-inner">
+      <a class="brand" href="index.html" aria-label="Yaning Liu home">
+        <span class="brand-mark" aria-hidden="true">YL</span>
+        <span class="brand-text">Yaning Liu<span>University of Colorado Denver</span></span>
+      </a>
+      <button class="menu-toggle" type="button" aria-expanded="false" aria-controls="site-nav" hidden>Menu <span aria-hidden="true">☰</span></button>
+      <nav class="site-nav" id="site-nav" aria-label="Main navigation" data-open="false">
+        {{navigation}}
+        <details class="nav-more">
+          <summary{{more_current}}>More <span aria-hidden="true">⌄</span></summary>
+          <div class="nav-dropdown">
+            {{secondary_navigation}}
+          </div>
+        </details>
+      </nav>
+    </div>
+  </header>
+  <main id="main" tabindex="-1">
+    {{content}}
+  </main>
+  <footer class="site-footer">
+    <div class="container footer-top">
+      <div><a class="footer-name" href="index.html">Yaning Liu</a><p>{{title_role}}<br>{{leadership}}<br>University of Colorado Denver</p></div>
+      <div><span class="eyebrow">Explore</span><div class="footer-links"><a href="publications.html">Publications</a><a href="education.html">Education</a><a href="courses.html">Teaching</a><a href="students.html">Students</a><a href="grants.html">Grants</a><a href="conferences.html">Talks &amp; conferences</a><a href="OER.html">Open resources</a></div></div>
+      <div><span class="eyebrow">Connect</span><div class="footer-connect"><a href="mailto:{{email}}">{{email}}</a><a href="{{scholar}}">Google Scholar <span aria-hidden="true">↗</span></a><a href="{{faculty}}">CU Denver profile <span aria-hidden="true">↗</span></a><a href="{{linkedin}}">LinkedIn <span aria-hidden="true">↗</span></a></div></div>
+    </div>
+    <div class="container footer-bottom"><span>© {{year}} Yaning Liu</span><span>Mathematics. Statistics. Computation.</span><a href="#main">Back to top ↑</a></div>
+  </footer>
+</body>
+</html>
