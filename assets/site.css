@@ -75,8 +75,7 @@ em { font-style: italic; }
 .hero-links { display: flex; flex-wrap: wrap; gap: 22px; margin-top: 28px; font-size: 11px; color: var(--muted); }
 .hero-links a { text-decoration: none; }
 .hero-portrait { position: relative; width: 100%; padding-top: 7px; }
-.hero-portrait::before { content: ''; position: absolute; top: -13px; right: -20px; bottom: 72px; width: 100%; border: 1px solid #b5bea9; border-radius: 170px 170px 3px 3px; z-index: -1; }
-.portrait-frame { overflow: hidden; border-radius: 170px 170px 3px 3px; background: #8b9292; }
+.portrait-frame { overflow: hidden; border: 1px solid #b5bea9; border-radius: 170px 170px 3px 3px; background: #8b9292; }
 .portrait-frame img { width: 100%; height: 450px; object-fit: cover; object-position: 50% 32%; }
 .hero-portrait figcaption { display: flex; align-items: center; gap: 10px; padding: 18px 4px; font: 16px/1.3 var(--serif); }
 .hero-portrait figcaption > span > span { display: block; font: 10px/1.8 var(--sans); color: var(--muted); margin-top: 3px; }
@@ -278,7 +277,6 @@ address .eyebrow { margin-bottom: 16px; }
   .hero-intro { font-size: 25px; }
   .hero-portrait { width: min(320px, calc(100% - 20px)); margin-inline: auto; }
   .portrait-frame img { height: 410px; }
-  .hero-portrait::before { right: -13px; top: -6px; }
   .hero-links { gap: 17px; }
   .about-section { padding-block: 45px; }
   .section-split { grid-template-columns: 1fr; gap: 30px; }
