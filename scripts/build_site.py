@@ -4,6 +4,7 @@ Python 3.10+; standard library only. Run from any working directory.
 The committed HTML is ready to serve without a build or JavaScript.
 """
 from collections import defaultdict
+from hashlib import sha256
 from html import escape
 import json
 from pathlib import Path
@@ -177,6 +178,7 @@ def write_bibtex():
 def main():
     validate_publications()
     template = (ROOT / "templates/base.html").read_text(encoding="utf-8")
+    stylesheet_version = sha256((ROOT / "assets/site.css").read_bytes()).hexdigest()[:12]
     profile_data = {
         "@context": "https://schema.org", "@type": "Person", "name": PROFILE["name"],
         "url": ORIGIN, "image": ORIGIN + "img/SelfPic.jpg", "jobTitle": [PROFILE["title"], PROFILE["leadership"]],
@@ -189,6 +191,7 @@ def main():
             **{k: text(v) for k, v in PROFILE.items()}, "title_role": text(PROFILE["title"]), "title_lower": text(PROFILE["title"].lower()),
             "title": text(title), "description": text(description), "canonical": ORIGIN + filename,
             "year": PROFILE["verified"][:4], "selected_publications": recent_publications(),
+            "stylesheet_version": stylesheet_version,
             "structured_data": '<script type="application/ld+json">' + json.dumps(profile_data, ensure_ascii=False).replace("<", "\\u003c") + "</script>" if filename == "index.html" else "",
             "navigation": render_nav(PRIMARY_NAV, filename), "secondary_navigation": render_nav(SECONDARY_NAV, filename),
             "more_current": ' class="is-current"' if filename in {href for _, href in SECONDARY_NAV} else "",
